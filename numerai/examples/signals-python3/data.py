@@ -2,7 +2,6 @@ import logging
 
 import pandas as pd
 import numpy as np
-# a fork of yfinance that implements retries nicely, see requirements.txt
 import yfinance
 
 # read in ticker map
